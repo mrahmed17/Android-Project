@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "235184253810",
+    "project_id": "quiz-for-isdb-students",
+    "storage_bucket": "quiz-for-isdb-students.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235184253810:android:4c196e674c747c43318beb",
+        "android_client_info": {
+          "package_name": "com.mrahmed.isdbquiztest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLX80fSlWWXvPPEHOTXgHET9pCZWP5lHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

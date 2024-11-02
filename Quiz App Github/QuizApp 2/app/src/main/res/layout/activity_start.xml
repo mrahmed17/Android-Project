@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+
+    tools:context=".StartActivity">
+
+    <TextView
+        android:id="@+id/txtTitle"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:fontFamily="@font/alata"
+        android:gravity="center"
+        android:text="Quiz time"
+        android:textColor="@color/edit_text_bg"
+        android:textSize="25sp"
+        android:textAllCaps="true"
+        android:textStyle="bold">
+
+    </TextView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="250dp"
+        android:gravity="center_horizontal"
+
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/txtTotalQuestion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/alata"
+            android:text="বাক্যের সংখ্যা: 20টি"
+            android:textColor="@color/edit_text_bg"
+            android:textSize="20sp"
+            android:textStyle="bold">
+
+
+        </TextView>
+
+        <TextView
+            android:id="@+id/txtTotalTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:fontFamily="@font/alata"
+            android:text="সময়: 20 মিনিট"
+            android:textColor="@color/edit_text_bg"
+            android:textSize="20sp"
+            android:textStyle="italic">
+
+        </TextView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="vertical"
+        android:layout_marginTop="50dp">
+
+        <Button
+            android:id="@+id/btnStart"
+            android:layout_width="170dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:background="@drawable/radius"
+            android:backgroundTint="@color/green"
+
+            android:fontFamily="@font/alata"
+            android:text="শুরু করুন"
+            android:textStyle="bold"
+            app:icon="@drawable/baseline_not_started_24"
+            app:iconPadding="0dp">
+
+        </Button>
+    </LinearLayout>
+</LinearLayout>

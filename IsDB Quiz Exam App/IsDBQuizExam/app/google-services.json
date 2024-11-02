@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "403398711254",
+    "project_id": "isdb-quiz-exam",
+    "storage_bucket": "isdb-quiz-exam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403398711254:android:d7ed9e1d4099305923b677",
+        "android_client_info": {
+          "package_name": "com.mrahmed.isdbquizexam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARww9IA3Xla2XOSYnDEX_bS-NTVt-EqbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

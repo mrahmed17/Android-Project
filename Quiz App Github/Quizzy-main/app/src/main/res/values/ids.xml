@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imageViewLogo" type="id" />
+    <item name="fragment_result_container" type="id" />
+    <item name="fragment_result_containerr" type="id" />
+    <item name="rememberMeCheckBox" type="id" />
+</resources>
