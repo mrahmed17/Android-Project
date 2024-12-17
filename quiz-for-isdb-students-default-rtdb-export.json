@@ -1,0 +1,1874 @@
+[
+  {
+    "id": "1",
+    "questionList": [
+      {
+        "correct": "Google",
+        "options": [
+          "Apple",
+          "Google",
+          "Samsung",
+          "Microsoft"
+        ],
+        "question": "Who owns Android?"
+      },
+      {
+        "correct": "Google Assistant",
+        "options": [
+          "Siri",
+          "Cortana",
+          "Google Assistant",
+          "Alexa"
+        ],
+        "question": "Which assistant does Android use?"
+      },
+      {
+        "correct": "2008",
+        "options": [
+          "2007",
+          "2008",
+          "2009",
+          "2010"
+        ],
+        "question": "In which year was Android officially released?"
+      },
+      {
+        "correct": "Open Handset Alliance",
+        "options": [
+          "Android Inc.",
+          "Google LLC",
+          "Open Handset Alliance",
+          "Google Developers"
+        ],
+        "question": "Which organization initially developed Android?"
+      },
+      {
+        "correct": "Android 1.0",
+        "options": [
+          "Android 1.0",
+          "Android Cupcake",
+          "Android Donut",
+          "Android KitKat"
+        ],
+        "question": "What was the name of the first publicly released version of Android?"
+      },
+      {
+        "correct": "Open Source",
+        "options": [
+          "Proprietary",
+          "Open Source",
+          "Paid License",
+          "Enterprise"
+        ],
+        "question": "What type of operating system is Android in terms of availability?"
+      },
+      {
+        "correct": "Java",
+        "options": [
+          "C++",
+          "Swift",
+          "Python",
+          "Java"
+        ],
+        "question": "Which programming language is primarily used for Android app development?"
+      },
+      {
+        "correct": "Kotlin",
+        "options": [
+          "Flutter",
+          "Kotlin",
+          "React Native",
+          "Ruby"
+        ],
+        "question": "What is the official alternative language for Android development besides Java?"
+      },
+      {
+        "correct": "Android Studio",
+        "options": [
+          "Xcode",
+          "Android Studio",
+          "Eclipse",
+          "Visual Studio"
+        ],
+        "question": "What is the official IDE for Android app development?"
+      },
+      {
+        "correct": "Google Play Store",
+        "options": [
+          "App Store",
+          "Amazon Appstore",
+          "Google Play Store",
+          "Windows Store"
+        ],
+        "question": "Which platform is the official marketplace for Android apps?"
+      },
+      {
+        "correct": "Samsung",
+        "options": [
+          "Samsung",
+          "Nokia",
+          "Motorola",
+          "LG"
+        ],
+        "question": "Which company is the largest Android smartphone manufacturer?"
+      },
+      {
+        "correct": "Material Design",
+        "options": [
+          "Flat Design",
+          "Metro UI",
+          "Material Design",
+          "3D Design"
+        ],
+        "question": "What is the name of the design language introduced by Google for Android UI?"
+      },
+      {
+        "correct": "Dalvik",
+        "options": [
+          "Java Virtual Machine",
+          "Dalvik",
+          "Python Virtual Machine",
+          "Art"
+        ],
+        "question": "Which virtual machine was used to run Android apps before the introduction of ART?"
+      },
+      {
+        "correct": "Donut",
+        "options": [
+          "Jelly Bean",
+          "Honeycomb",
+          "Donut",
+          "KitKat"
+        ],
+        "question": "Which Android version first supported different screen sizes and resolutions?"
+      },
+      {
+        "correct": "Android Wear",
+        "options": [
+          "Android TV",
+          "Android Auto",
+          "Android Wear",
+          "Android Things"
+        ],
+        "question": "Which Android platform is specifically designed for smartwatches?"
+      },
+      {
+        "correct": "Linux Kernel",
+        "options": [
+          "Windows NT",
+          "Mac OS",
+          "Linux Kernel",
+          "UNIX"
+        ],
+        "question": "On which kernel is Android based?"
+      },
+      {
+        "correct": "Oreo",
+        "options": [
+          "Nougat",
+          "Lollipop",
+          "Oreo",
+          "Marshmallow"
+        ],
+        "question": "Which Android version introduced Project Treble for faster OS updates?"
+      },
+      {
+        "correct": "Android One",
+        "options": [
+          "Android One",
+          "Android Go",
+          "Android Wear",
+          "Android TV"
+        ],
+        "question": "Which Android initiative aims to deliver a pure, secure, and updated Android experience on low-cost devices?"
+      },
+      {
+        "correct": "Android Go",
+        "options": [
+          "Android One",
+          "Android Go",
+          "Android TV",
+          "Android Things"
+        ],
+        "question": "Which version of Android is optimized for entry-level smartphones?"
+      },
+      {
+        "correct": "5.0 Lollipop",
+        "options": [
+          "4.0 Ice Cream Sandwich",
+          "5.0 Lollipop",
+          "6.0 Marshmallow",
+          "7.0 Nougat"
+        ],
+        "question": "Which Android version introduced Material Design?"
+      }
+    ],
+    "subtitle": "History and Usage",
+    "time": "20",
+    "title": "Android"
+  },
+  {
+    "id": "2",
+    "questionList": [
+      {
+        "correct": "Language",
+        "options": [
+          "Computer",
+          "Language",
+          "Program",
+          "Software"
+        ],
+        "question": "Java is a?"
+      },
+      {
+        "correct": "Modulus",
+        "options": [
+          "Modulus",
+          "Multiply",
+          "Subtract",
+          "Add"
+        ],
+        "question": "What does the % symbol mean?"
+      },
+      {
+        "correct": "Object-Oriented Programming",
+        "options": [
+          "Functional Programming",
+          "Procedural Programming",
+          "Object-Oriented Programming",
+          "Declarative Programming"
+        ],
+        "question": "What is the programming paradigm used by Java?"
+      },
+      {
+        "correct": "Python",
+        "options": [
+          "Java",
+          "C++",
+          "Python",
+          "Ruby"
+        ],
+        "question": "Which programming language is known for its readability and simple syntax?"
+      },
+      {
+        "correct": "int",
+        "options": [
+          "int",
+          "Integer",
+          "float",
+          "String"
+        ],
+        "question": "Which data type is used to store whole numbers in Java?"
+      },
+      {
+        "correct": "Inheritance",
+        "options": [
+          "Encapsulation",
+          "Abstraction",
+          "Polymorphism",
+          "Inheritance"
+        ],
+        "question": "Which OOP concept allows a class to acquire properties from another class?"
+      },
+      {
+        "correct": "Compile-time",
+        "options": [
+          "Compile-time",
+          "Run-time",
+          "Link-time",
+          "Debug-time"
+        ],
+        "question": "When are syntax errors typically detected?"
+      },
+      {
+        "correct": "Boolean",
+        "options": [
+          "Boolean",
+          "int",
+          "char",
+          "float"
+        ],
+        "question": "What is the data type used to store true or false values?"
+      },
+      {
+        "correct": "for",
+        "options": [
+          "while",
+          "do-while",
+          "if",
+          "for"
+        ],
+        "question": "Which loop is most commonly used when the number of iterations is known beforehand?"
+      },
+      {
+        "correct": "==",
+        "options": [
+          "==",
+          "=",
+          "!=",
+          "==="
+        ],
+        "question": "Which operator is used to compare two values in Java?"
+      },
+      {
+        "correct": "Public",
+        "options": [
+          "Private",
+          "Protected",
+          "Public",
+          "Final"
+        ],
+        "question": "Which keyword is used to declare a method accessible by any class?"
+      },
+      {
+        "correct": "Method",
+        "options": [
+          "Method",
+          "Constructor",
+          "Class",
+          "Interface"
+        ],
+        "question": "What is a block of code that performs a specific task and can be called upon when needed?"
+      },
+      {
+        "correct": "NullPointerException",
+        "options": [
+          "IOException",
+          "NullPointerException",
+          "ArrayIndexOutOfBoundsException",
+          "ArithmeticException"
+        ],
+        "question": "Which exception occurs when a program attempts to use an object reference that has the null value?"
+      },
+      {
+        "correct": "byte",
+        "options": [
+          "byte",
+          "int",
+          "long",
+          "float"
+        ],
+        "question": "What is the smallest data type in Java, capable of holding values from -128 to 127?"
+      },
+      {
+        "correct": "Abstract class",
+        "options": [
+          "Abstract class",
+          "Interface",
+          "Concrete class",
+          "Static class"
+        ],
+        "question": "Which type of class cannot be instantiated directly but can be subclassed?"
+      },
+      {
+        "correct": "Break",
+        "options": [
+          "Continue",
+          "Break",
+          "Return",
+          "Pass"
+        ],
+        "question": "Which statement is used to terminate a loop in Java?"
+      },
+      {
+        "correct": "Static",
+        "options": [
+          "Static",
+          "Final",
+          "Abstract",
+          "Virtual"
+        ],
+        "question": "Which keyword is used to define methods or variables that can be accessed without creating an instance of the class?"
+      },
+      {
+        "correct": "Void",
+        "options": [
+          "Void",
+          "Null",
+          "Nothing",
+          "Zero"
+        ],
+        "question": "Which return type in Java specifies that a method does not return a value?"
+      },
+      {
+        "correct": "String",
+        "options": [
+          "String",
+          "Array",
+          "Object",
+          "List"
+        ],
+        "question": "Which class is used in Java to represent a sequence of characters?"
+      },
+      {
+        "correct": "Garbage Collection",
+        "options": [
+          "Threading",
+          "Garbage Collection",
+          "Memory Allocation",
+          "Memory Fragmentation"
+        ],
+        "question": "What process in Java automatically reclaims memory by destroying unused objects?"
+      }
+    ],
+    "subtitle": "Basic Programming Concepts",
+    "time": "20",
+    "title": "Programming"
+  },
+  {
+    "id": "3",
+    "questionList": [
+      {
+        "correct": "Hyper Text Markup Language",
+        "options": [
+          "Hyper Transfer Markup Language",
+          "Hyper Text Makeup Language",
+          "Hyper Text Markup Language",
+          "High Transfer Markup Language"
+        ],
+        "question": "What does HTML stand for?"
+      },
+      {
+        "correct": "JavaScript",
+        "options": [
+          "Java",
+          "Python",
+          "JavaScript",
+          "C++"
+        ],
+        "question": "Which programming language is used for client-side scripting in web development?"
+      },
+      {
+        "correct": "Cascading Style Sheet",
+        "options": [
+          "Cascading Style Sheet",
+          "Computer Style Sheet",
+          "Colorful Style Sheet",
+          "Creative Style Sheet"
+        ],
+        "question": "What does CSS stand for?"
+      },
+      {
+        "correct": "Contains metadata about the document",
+        "options": [
+          "Defines the main content of the document",
+          "Contains metadata about the document",
+          "Specifies a header for a document",
+          "Defines a section that is quoted from another source"
+        ],
+        "question": "What is the purpose of the <head> tag in HTML?"
+      },
+      {
+        "correct": "<a>",
+        "options": [
+          "<link>",
+          "<img>",
+          "<a>",
+          "<ul>"
+        ],
+        "question": "Which HTML tag is used to create a hyperlink?"
+      },
+      {
+        "correct": "Float",
+        "options": [
+          "Inline-block",
+          "Flexbox",
+          "Float",
+          "Grid"
+        ],
+        "question": "Which CSS property was commonly used for creating multi-column layouts before Flexbox and Grid?"
+      },
+      {
+        "correct": "alt",
+        "options": [
+          "src",
+          "alt",
+          "href",
+          "title"
+        ],
+        "question": "Which HTML attribute is used to provide alternative text for an image?"
+      },
+      {
+        "correct": "jQuery",
+        "options": [
+          "React",
+          "Angular",
+          "Vue",
+          "jQuery"
+        ],
+        "question": "Which popular JavaScript library simplifies HTML document manipulation?"
+      },
+      {
+        "correct": "GET",
+        "options": [
+          "GET",
+          "POST",
+          "PUT",
+          "DELETE"
+        ],
+        "question": "Which HTTP method is used to request data from a server?"
+      },
+      {
+        "correct": "Responsive Web Design",
+        "options": [
+          "Mobile-First Design",
+          "Adaptive Web Design",
+          "Responsive Web Design",
+          "Static Web Design"
+        ],
+        "question": "What term refers to designing websites that work on a wide variety of devices and screen sizes?"
+      },
+      {
+        "correct": "<input>",
+        "options": [
+          "<input>",
+          "<button>",
+          "<form>",
+          "<textarea>"
+        ],
+        "question": "Which HTML tag is used to create interactive elements in a form, such as text fields and buttons?"
+      },
+      {
+        "correct": "External",
+        "options": [
+          "Inline",
+          "Embedded",
+          "External",
+          "Internal"
+        ],
+        "question": "Which type of CSS style sheet is linked to the HTML document via the <link> tag?"
+      },
+      {
+        "correct": "Bootstrap",
+        "options": [
+          "Foundation",
+          "Tailwind",
+          "Materialize",
+          "Bootstrap"
+        ],
+        "question": "Which front-end framework provides pre-designed components and a grid system for responsive design?"
+      },
+      {
+        "correct": "id",
+        "options": [
+          "id",
+          "class",
+          "style",
+          "tag"
+        ],
+        "question": "Which HTML attribute is used to uniquely identify an element in a document?"
+      },
+      {
+        "correct": "Box Model",
+        "options": [
+          "CSS Grid",
+          "Box Model",
+          "Flexbox",
+          "Viewport"
+        ],
+        "question": "What is the term for the CSS layout concept that includes margins, borders, padding, and content?"
+      },
+      {
+        "correct": "Domain Name System",
+        "options": [
+          "Digital Network Service",
+          "Domain Naming Service",
+          "Domain Network System",
+          "Domain Name System"
+        ],
+        "question": "What does DNS stand for in web technologies?"
+      },
+      {
+        "correct": "Semantic HTML",
+        "options": [
+          "Dynamic HTML",
+          "Semantic HTML",
+          "HTML5",
+          "Interactive HTML"
+        ],
+        "question": "What term refers to using HTML tags that convey the meaning of content, like <header>, <article>, and <footer>?"
+      },
+      {
+        "correct": "Viewport",
+        "options": [
+          "Viewport",
+          "Document Object Model",
+          "Window",
+          "Body"
+        ],
+        "question": "Which term refers to the visible area of a web page on a user's device?"
+      },
+      {
+        "correct": "Flexbox",
+        "options": [
+          "Flexbox",
+          "CSS Grid",
+          "Box Model",
+          "Table"
+        ],
+        "question": "Which CSS layout module is designed to distribute space along a container's main and cross axes?"
+      },
+      {
+        "correct": "Cookies",
+        "options": [
+          "Tokens",
+          "Cookies",
+          "Sessions",
+          "API Keys"
+        ],
+        "question": "Which small data files are stored on a user's browser to track and save their preferences or login status?"
+      }
+    ],
+    "subtitle": "Introduction to Web Technologies",
+    "time": "20",
+    "title": "Web Development"
+  },
+  {
+    "id": "4",
+    "questionList": [
+      {
+        "correct": "Google",
+        "options": [
+          "Facebook",
+          "Google",
+          "Apple",
+          "Microsoft"
+        ],
+        "question": "Who developed Flutter?"
+      },
+      {
+        "correct": "Dart",
+        "options": [
+          "JavaScript",
+          "Dart",
+          "Kotlin",
+          "Swift"
+        ],
+        "question": "Which programming language is used with Flutter?"
+      },
+      {
+        "correct": "Widgets",
+        "options": [
+          "Widgets",
+          "Blocks",
+          "Components",
+          "Modules"
+        ],
+        "question": "What is the core building block in Flutter?"
+      },
+      {
+        "correct": "Hot Reload",
+        "options": [
+          "Hot Reload",
+          "Lazy Loading",
+          "Cold Boot",
+          "Hot Restart"
+        ],
+        "question": "Which feature of Flutter allows you to see code changes in real-time without restarting the app?"
+      },
+      {
+        "correct": "Cross-platform",
+        "options": [
+          "Cross-platform",
+          "Single platform",
+          "Native",
+          "Hybrid"
+        ],
+        "question": "What type of framework is Flutter?"
+      },
+      {
+        "correct": "Cupertino",
+        "options": [
+          "Material",
+          "Bootstrap",
+          "Cupertino",
+          "Ant Design"
+        ],
+        "question": "Which Flutter widget library provides iOS-style components?"
+      },
+      {
+        "correct": "StatelessWidget",
+        "options": [
+          "StatefulWidget",
+          "StatelessWidget",
+          "InheritedWidget",
+          "LayoutWidget"
+        ],
+        "question": "Which Flutter widget does not store any state?"
+      },
+      {
+        "correct": "StatefulWidget",
+        "options": [
+          "StatefulWidget",
+          "StatelessWidget",
+          "InheritedWidget",
+          "LayoutWidget"
+        ],
+        "question": "Which widget can store and update its internal state over time?"
+      },
+      {
+        "correct": "Scaffold",
+        "options": [
+          "Container",
+          "Scaffold",
+          "AppBar",
+          "MaterialApp"
+        ],
+        "question": "Which Flutter widget provides the basic structure for a Material Design layout?"
+      },
+      {
+        "correct": "setState()",
+        "options": [
+          "build()",
+          "initState()",
+          "dispose()",
+          "setState()"
+        ],
+        "question": "Which method is used to update the state of a StatefulWidget?"
+      },
+      {
+        "correct": "initState()",
+        "options": [
+          "initState()",
+          "setState()",
+          "dispose()",
+          "build()"
+        ],
+        "question": "Which method is called when a StatefulWidget is first created?"
+      },
+      {
+        "correct": "dispose()",
+        "options": [
+          "dispose()",
+          "build()",
+          "setState()",
+          "initState()"
+        ],
+        "question": "Which method is used to clean up resources when a StatefulWidget is removed from the widget tree?"
+      },
+      {
+        "correct": "Navigator",
+        "options": [
+          "Router",
+          "Navigator",
+          "Scaffold",
+          "MaterialApp"
+        ],
+        "question": "Which widget is used for navigating between different screens in Flutter?"
+      },
+      {
+        "correct": "pubspec.yaml",
+        "options": [
+          "pubspec.yaml",
+          "build.gradle",
+          "manifest.json",
+          "config.yaml"
+        ],
+        "question": "In which file do you define Flutter dependencies?"
+      },
+      {
+        "correct": "async",
+        "options": [
+          "sync",
+          "async",
+          "parallel",
+          "deferred"
+        ],
+        "question": "What keyword is used in Dart for asynchronous programming?"
+      },
+      {
+        "correct": "FutureBuilder",
+        "options": [
+          "StreamBuilder",
+          "FutureBuilder",
+          "AsyncBuilder",
+          "StatefulBuilder"
+        ],
+        "question": "Which widget is used to build widgets based on asynchronous data in Flutter?"
+      },
+      {
+        "correct": "StreamBuilder",
+        "options": [
+          "FutureBuilder",
+          "StreamBuilder",
+          "StatefulWidget",
+          "ValueNotifier"
+        ],
+        "question": "Which widget is used to build widgets based on stream data in Flutter?"
+      },
+      {
+        "correct": "Flutter Inspector",
+        "options": [
+          "Flutter Doctor",
+          "Flutter Inspector",
+          "DartPad",
+          "Hot Reload"
+        ],
+        "question": "Which tool is used to debug Flutter layouts in real-time?"
+      },
+      {
+        "correct": "build()",
+        "options": [
+          "setState()",
+          "build()",
+          "dispose()",
+          "initState()"
+        ],
+        "question": "Which method is responsible for building the UI in a Flutter widget?"
+      },
+      {
+        "correct": "MaterialApp",
+        "options": [
+          "MaterialApp",
+          "Scaffold",
+          "AppBar",
+          "Container"
+        ],
+        "question": "Which widget wraps the entire Flutter application and provides basic Material Design properties?"
+      }
+    ],
+    "subtitle": "Flutter Basics",
+    "time": "20",
+    "title": "Flutter"
+  },
+  {
+    "id": "5",
+    "questionList": [
+      {
+        "correct": "Spring Initializr",
+        "options": [
+          "Spring Boot CLI",
+          "Spring Initializr",
+          "Maven",
+          "Gradle"
+        ],
+        "question": "Which tool is commonly used to generate Spring Boot projects?"
+      },
+      {
+        "correct": "Embedded server",
+        "options": [
+          "Standalone server",
+          "External server",
+          "Embedded server",
+          "Cloud server"
+        ],
+        "question": "What type of server does Spring Boot typically use by default?"
+      },
+      {
+        "correct": "SpringApplication.run()",
+        "options": [
+          "SpringApplication.run()",
+          "ApplicationContext.run()",
+          "ConfigurableApplicationContext.run()",
+          "SpringBoot.run()"
+        ],
+        "question": "Which method is used to launch a Spring Boot application?"
+      },
+      {
+        "correct": "application.properties",
+        "options": [
+          "application.properties",
+          "app.properties",
+          "settings.properties",
+          "config.properties"
+        ],
+        "question": "Which file is used for configuring properties in a Spring Boot application?"
+      },
+      {
+        "correct": "@RestController",
+        "options": [
+          "@Controller",
+          "@RestController",
+          "@Service",
+          "@Repository"
+        ],
+        "question": "Which annotation is used in Spring Boot to create RESTful web services?"
+      },
+      {
+        "correct": "@SpringBootApplication",
+        "options": [
+          "@Component",
+          "@SpringBootApplication",
+          "@Configuration",
+          "@EnableAutoConfiguration"
+        ],
+        "question": "Which annotation is used to mark the main class of a Spring Boot application?"
+      },
+      {
+        "correct": "Tomcat",
+        "options": [
+          "Jetty",
+          "Tomcat",
+          "WildFly",
+          "GlassFish"
+        ],
+        "question": "What is the default embedded server used by Spring Boot?"
+      },
+      {
+        "correct": "Auto-configuration",
+        "options": [
+          "Auto-configuration",
+          "Manual configuration",
+          "Runtime configuration",
+          "Lazy configuration"
+        ],
+        "question": "What feature in Spring Boot automatically configures beans based on project dependencies?"
+      },
+      {
+        "correct": "@RequestMapping",
+        "options": [
+          "@GetMapping",
+          "@PostMapping",
+          "@RequestMapping",
+          "@DeleteMapping"
+        ],
+        "question": "Which annotation can be used to map HTTP requests to handler methods in Spring Boot?"
+      },
+      {
+        "correct": "JPA",
+        "options": [
+          "JDBC",
+          "JPA",
+          "Hibernate",
+          "MyBatis"
+        ],
+        "question": "Which technology is typically used in Spring Boot for database interaction with Object Relational Mapping (ORM)?"
+      },
+      {
+        "correct": "@Autowired",
+        "options": [
+          "@Resource",
+          "@Autowired",
+          "@Inject",
+          "@Bean"
+        ],
+        "question": "Which annotation is used to inject dependencies in Spring Boot?"
+      },
+      {
+        "correct": "@Entity",
+        "options": [
+          "@Model",
+          "@Component",
+          "@Entity",
+          "@Bean"
+        ],
+        "question": "Which annotation is used to mark a class as a JPA entity in Spring Boot?"
+      },
+      {
+        "correct": "Spring Data JPA",
+        "options": [
+          "Spring Security",
+          "Spring Data JPA",
+          "Spring AOP",
+          "Spring Cloud"
+        ],
+        "question": "Which module in Spring Boot simplifies the implementation of data access layers for JPA?"
+      },
+      {
+        "correct": "DevTools",
+        "options": [
+          "DevTools",
+          "Spring CLI",
+          "Spring Shell",
+          "Spring Boot Starter"
+        ],
+        "question": "Which Spring Boot tool is used for automatic restarts and hot reload of applications during development?"
+      },
+      {
+        "correct": "@PathVariable",
+        "options": [
+          "@PathVariable",
+          "@RequestParam",
+          "@RequestBody",
+          "@RequestHeader"
+        ],
+        "question": "Which annotation is used to bind URL template variables to method parameters in Spring Boot?"
+      },
+      {
+        "correct": "Thymeleaf",
+        "options": [
+          "JSP",
+          "Freemarker",
+          "Thymeleaf",
+          "Mustache"
+        ],
+        "question": "Which templating engine is commonly used in Spring Boot for rendering dynamic web pages?"
+      },
+      {
+        "correct": "Actuator",
+        "options": [
+          "Actuator",
+          "Spring Shell",
+          "Spring Boot CLI",
+          "Spring Cloud"
+        ],
+        "question": "Which Spring Boot module provides production-ready features like health checks and monitoring?"
+      },
+      {
+        "correct": "@RequestBody",
+        "options": [
+          "@RequestBody",
+          "@PathVariable",
+          "@RequestParam",
+          "@ResponseBody"
+        ],
+        "question": "Which annotation is used to bind the HTTP request body to a method parameter in Spring Boot?"
+      },
+      {
+        "correct": "Spring Security",
+        "options": [
+          "Spring Batch",
+          "Spring Security",
+          "Spring Integration",
+          "Spring AOP"
+        ],
+        "question": "Which Spring Boot module is used to secure applications with authentication and authorization?"
+      },
+      {
+        "correct": "Spring Boot Starter",
+        "options": [
+          "Spring Boot Starter",
+          "Spring Boot CLI",
+          "Spring Shell",
+          "Spring Web"
+        ],
+        "question": "Which dependency in Spring Boot provides pre-configured setups for commonly used components like web, JPA, or security?"
+      }
+    ],
+    "subtitle": "Spring Boot Basics",
+    "time": "20",
+    "title": "Spring Boot"
+  },
+  {
+    "id": "6",
+    "questionList": [
+      {
+        "correct": "Component",
+        "options": [
+          "Service",
+          "Directive",
+          "Pipe",
+          "Component"
+        ],
+        "question": "In Angular, what is the basic building block of the user interface?"
+      },
+      {
+        "correct": "ngModel",
+        "options": [
+          "ngBind",
+          "ngModel",
+          "ngRepeat",
+          "ngFor"
+        ],
+        "question": "Which directive is used for two-way data binding in Angular forms?"
+      },
+      {
+        "correct": "Angular CLI",
+        "options": [
+          "Angular Builder",
+          "Angular CLI",
+          "ngServe",
+          "ngInit"
+        ],
+        "question": "What tool is commonly used to initialize a new Angular application?"
+      },
+      {
+        "correct": "Service",
+        "options": [
+          "Component",
+          "Module",
+          "Service",
+          "Directive"
+        ],
+        "question": "What is used to share data and functionality across components in Angular?"
+      },
+      {
+        "correct": "Observable",
+        "options": [
+          "Promise",
+          "Observable",
+          "Array",
+          "Subject"
+        ],
+        "question": "Which type of object is used for asynchronous programming in Angular with RxJS?"
+      },
+      {
+        "correct": "ngIf",
+        "options": [
+          "ngFor",
+          "ngIf",
+          "ngSwitch",
+          "ngHide"
+        ],
+        "question": "Which directive is used for conditionally including or excluding a template in Angular?"
+      },
+      {
+        "correct": "Dependency Injection",
+        "options": [
+          "Data Binding",
+          "Routing",
+          "Dependency Injection",
+          "Component Lifecycle"
+        ],
+        "question": "What design pattern does Angular use to manage service instances?"
+      },
+      {
+        "correct": "@Input()",
+        "options": [
+          "@Output()",
+          "@ViewChild()",
+          "@Input()",
+          "@Inject()"
+        ],
+        "question": "Which decorator is used to define a property in a component that can receive data from its parent component?"
+      },
+      {
+        "correct": "RoutingModule",
+        "options": [
+          "FormsModule",
+          "RoutingModule",
+          "HttpClientModule",
+          "CommonModule"
+        ],
+        "question": "Which module is used to configure routing in an Angular application?"
+      },
+      {
+        "correct": "pipe",
+        "options": [
+          "filter",
+          "map",
+          "pipe",
+          "subscribe"
+        ],
+        "question": "Which method is used to transform data in an Observable stream in Angular?"
+      },
+      {
+        "correct": "ngFor",
+        "options": [
+          "ngRepeat",
+          "ngFor",
+          "ngSwitch",
+          "ngIf"
+        ],
+        "question": "Which directive is used to iterate over a list of items in Angular?"
+      },
+      {
+        "correct": "AOT Compilation",
+        "options": [
+          "Just-In-Time Compilation",
+          "AOT Compilation",
+          "Lazy Loading",
+          "Tree Shaking"
+        ],
+        "question": "Which compilation method pre-compiles the Angular application during the build process?"
+      },
+      {
+        "correct": "Reactive Forms",
+        "options": [
+          "Template-Driven Forms",
+          "Reactive Forms",
+          "FormBuilder",
+          "NgForm"
+        ],
+        "question": "Which approach in Angular allows for more dynamic and scalable forms?"
+      },
+      {
+        "correct": "Change Detection",
+        "options": [
+          "Data Binding",
+          "Change Detection",
+          "Event Binding",
+          "Property Binding"
+        ],
+        "question": "What mechanism does Angular use to detect and respond to changes in the application?"
+      },
+      {
+        "correct": "ng-content",
+        "options": [
+          "ng-template",
+          "ng-container",
+          "ng-content",
+          "ng-if"
+        ],
+        "question": "Which directive is used to create content projection in Angular components?"
+      },
+      {
+        "correct": "Angular Universal",
+        "options": [
+          "Angular Native",
+          "Angular Universal",
+          "Angular CLI",
+          "Angular Flex Layout"
+        ],
+        "question": "What is the name of the tool used for server-side rendering of Angular applications?"
+      },
+      {
+        "correct": "Environment Variables",
+        "options": [
+          "Environment Variables",
+          "Angular Configuration",
+          "Settings File",
+          "App Configuration"
+        ],
+        "question": "Where are environment-specific configurations typically stored in an Angular application?"
+      },
+      {
+        "correct": "HttpClientModule",
+        "options": [
+          "HttpModule",
+          "HttpClientModule",
+          "FetchModule",
+          "AjaxModule"
+        ],
+        "question": "Which module is used for making HTTP requests in Angular?"
+      },
+      {
+        "correct": "ngZone",
+        "options": [
+          "ChangeDetectorRef",
+          "ngZone",
+          "ApplicationRef",
+          "Injector"
+        ],
+        "question": "Which Angular service is used to manage the zones for change detection?"
+      },
+      {
+        "correct": "Async Pipe",
+        "options": [
+          "Subscribe",
+          "Async Pipe",
+          "Promise",
+          "Observable"
+        ],
+        "question": "Which pipe in Angular is used to subscribe to an Observable in templates?"
+      }
+    ],
+    "subtitle": "Angular Basics",
+    "time": "20",
+    "title": "Angular"
+  },
+  {
+    "id": "7",
+    "questionList": [
+      {
+        "correct": "Object-Oriented Programming",
+        "options": [
+          "Object-Based Programming",
+          "Object-Oriented Programming",
+          "Procedure-Oriented Programming",
+          "Modular Programming"
+        ],
+        "question": "What does OOP stand for?"
+      },
+      {
+        "correct": "Encapsulation",
+        "options": [
+          "Polymorphism",
+          "Inheritance",
+          "Encapsulation",
+          "Abstraction"
+        ],
+        "question": "Which OOP principle binds data and functions together?"
+      },
+      {
+        "correct": "Inheritance",
+        "options": [
+          "Polymorphism",
+          "Abstraction",
+          "Inheritance",
+          "Encapsulation"
+        ],
+        "question": "Which OOP concept allows one class to inherit properties of another class?"
+      },
+      {
+        "correct": "Polymorphism",
+        "options": [
+          "Abstraction",
+          "Encapsulation",
+          "Polymorphism",
+          "Inheritance"
+        ],
+        "question": "Which OOP principle allows a method to behave differently based on the object that invokes it?"
+      },
+      {
+        "correct": "Abstraction",
+        "options": [
+          "Encapsulation",
+          "Abstraction",
+          "Inheritance",
+          "Polymorphism"
+        ],
+        "question": "Which OOP concept is used to hide the complex implementation details and show only the necessary features?"
+      },
+      {
+        "correct": "Class",
+        "options": [
+          "Class",
+          "Object",
+          "Method",
+          "Function"
+        ],
+        "question": "What is a blueprint or template from which objects are created?"
+      },
+      {
+        "correct": "Object",
+        "options": [
+          "Object",
+          "Class",
+          "Method",
+          "Variable"
+        ],
+        "question": "What is an instance of a class called?"
+      },
+      {
+        "correct": "Constructor",
+        "options": [
+          "Destructor",
+          "Constructor",
+          "Method",
+          "Function"
+        ],
+        "question": "Which special function is used to initialize objects in a class?"
+      },
+      {
+        "correct": "Method Overloading",
+        "options": [
+          "Method Overriding",
+          "Method Overloading",
+          "Constructor Overloading",
+          "Operator Overloading"
+        ],
+        "question": "What is the term for defining multiple methods with the same name but different parameters?"
+      },
+      {
+        "correct": "Method Overriding",
+        "options": [
+          "Method Overloading",
+          "Method Overriding",
+          "Constructor Overriding",
+          "Operator Overriding"
+        ],
+        "question": "Which concept allows a subclass to provide a specific implementation of a method already defined in its superclass?"
+      },
+      {
+        "correct": "Multiple Inheritance",
+        "options": [
+          "Multiple Inheritance",
+          "Single Inheritance",
+          "Hierarchical Inheritance",
+          "Multilevel Inheritance"
+        ],
+        "question": "Which type of inheritance allows a class to inherit from more than one class?"
+      },
+      {
+        "correct": "Interface",
+        "options": [
+          "Interface",
+          "Class",
+          "Object",
+          "Constructor"
+        ],
+        "question": "What defines a contract of methods that a class must implement but does not provide the implementation itself?"
+      },
+      {
+        "correct": "Encapsulation",
+        "options": [
+          "Encapsulation",
+          "Abstraction",
+          "Inheritance",
+          "Polymorphism"
+        ],
+        "question": "Which principle restricts direct access to some of an object’s components, usually through private access?"
+      },
+      {
+        "correct": "Public, Private, Protected",
+        "options": [
+          "Public, Private, Protected",
+          "Public, Private, Final",
+          "Final, Static, Void",
+          "Static, Final, Abstract"
+        ],
+        "question": "What are the common access specifiers in OOP?"
+      },
+      {
+        "correct": "Static",
+        "options": [
+          "Static",
+          "Final",
+          "Abstract",
+          "Virtual"
+        ],
+        "question": "Which keyword is used to declare a method or variable that belongs to the class rather than an instance of the class?"
+      },
+      {
+        "correct": "Abstract Class",
+        "options": [
+          "Interface",
+          "Abstract Class",
+          "Concrete Class",
+          "Base Class"
+        ],
+        "question": "What is a class that cannot be instantiated and often includes abstract methods?"
+      },
+      {
+        "correct": "Virtual Function",
+        "options": [
+          "Virtual Function",
+          "Static Function",
+          "Final Function",
+          "Abstract Function"
+        ],
+        "question": "Which function in a base class is declared to be overridden in derived classes?"
+      },
+      {
+        "correct": "this",
+        "options": [
+          "super",
+          "this",
+          "base",
+          "self"
+        ],
+        "question": "Which keyword refers to the current instance of the class in Java?"
+      },
+      {
+        "correct": "super",
+        "options": [
+          "super",
+          "this",
+          "base",
+          "self"
+        ],
+        "question": "Which keyword is used to refer to the immediate parent class object?"
+      },
+      {
+        "correct": "Final",
+        "options": [
+          "Final",
+          "Abstract",
+          "Static",
+          "Const"
+        ],
+        "question": "Which keyword is used to prevent inheritance of a class in Java?"
+      }
+    ],
+    "subtitle": "Object Oriented Programming",
+    "time": "20",
+    "title": "OOP"
+  },
+  {
+    "id": "8",
+    "questionList": [
+      {
+        "correct": "IP address",
+        "options": [
+          "MAC address",
+          "IP address",
+          "Subnet Mask",
+          "Gateway"
+        ],
+        "question": "What uniquely identifies a device on a network?"
+      },
+      {
+        "correct": "Router",
+        "options": [
+          "Switch",
+          "Router",
+          "Hub",
+          "Firewall"
+        ],
+        "question": "Which device is responsible for routing traffic between different networks?"
+      },
+      {
+        "correct": "Subnet Mask",
+        "options": [
+          "IP address",
+          "MAC address",
+          "Subnet Mask",
+          "DNS"
+        ],
+        "question": "What is used to divide an IP address into a network and host identifier?"
+      },
+      {
+        "correct": "DHCP",
+        "options": [
+          "DNS",
+          "DHCP",
+          "HTTP",
+          "FTP"
+        ],
+        "question": "Which protocol is used to automatically assign IP addresses to devices on a network?"
+      },
+      {
+        "correct": "DNS",
+        "options": [
+          "HTTP",
+          "DNS",
+          "FTP",
+          "SMTP"
+        ],
+        "question": "Which protocol is responsible for translating domain names into IP addresses?"
+      },
+      {
+        "correct": "Firewall",
+        "options": [
+          "Router",
+          "Switch",
+          "Firewall",
+          "Hub"
+        ],
+        "question": "Which network security device monitors and controls incoming and outgoing network traffic?"
+      },
+      {
+        "correct": "TCP/IP",
+        "options": [
+          "HTTP",
+          "TCP/IP",
+          "FTP",
+          "UDP"
+        ],
+        "question": "Which protocol suite is the foundation of the Internet and most internal networks?"
+      },
+      {
+        "correct": "OSI model",
+        "options": [
+          "OSI model",
+          "TCP/IP model",
+          "HTTP protocol",
+          "ICMP protocol"
+        ],
+        "question": "Which model divides network communication into seven layers?"
+      },
+      {
+        "correct": "Switch",
+        "options": [
+          "Router",
+          "Switch",
+          "Hub",
+          "Gateway"
+        ],
+        "question": "Which device connects multiple devices on a LAN and forwards data only to the intended recipient?"
+      },
+      {
+        "correct": "Ping",
+        "options": [
+          "Trace",
+          "Ping",
+          "NSLookup",
+          "Telnet"
+        ],
+        "question": "Which command-line tool is used to test the reachability of a host on an IP network?"
+      },
+      {
+        "correct": "Port",
+        "options": [
+          "Port",
+          "Gateway",
+          "Subnet",
+          "IP"
+        ],
+        "question": "What is a logical address used by protocols to identify specific processes or services?"
+      },
+      {
+        "correct": "SSH",
+        "options": [
+          "SSH",
+          "HTTP",
+          "FTP",
+          "SMTP"
+        ],
+        "question": "Which protocol is used to securely log into a remote computer?"
+      },
+      {
+        "correct": "Load Balancer",
+        "options": [
+          "Switch",
+          "Load Balancer",
+          "Firewall",
+          "Router"
+        ],
+        "question": "Which device distributes network or application traffic across multiple servers?"
+      },
+      {
+        "correct": "VLAN",
+        "options": [
+          "VPN",
+          "VLAN",
+          "IPSec",
+          "HTTP"
+        ],
+        "question": "Which technology allows the creation of separate networks within a single physical network?"
+      },
+      {
+        "correct": "Proxy Server",
+        "options": [
+          "Proxy Server",
+          "Router",
+          "DNS Server",
+          "Firewall"
+        ],
+        "question": "Which server acts as an intermediary for requests from clients seeking resources from other servers?"
+      },
+      {
+        "correct": "Network Address Translation",
+        "options": [
+          "Dynamic Host Configuration Protocol",
+          "Domain Name System",
+          "Network Address Translation",
+          "Internet Control Message Protocol"
+        ],
+        "question": "What does NAT stand for?"
+      },
+      {
+        "correct": "Traceroute",
+        "options": [
+          "Traceroute",
+          "Ping",
+          "Netstat",
+          "Nslookup"
+        ],
+        "question": "Which command shows the path packets take to reach a destination?"
+      },
+      {
+        "correct": "ARP",
+        "options": [
+          "ARP",
+          "RARP",
+          "DHCP",
+          "DNS"
+        ],
+        "question": "Which protocol is used to map IP addresses to MAC addresses?"
+      },
+      {
+        "correct": "Gateway",
+        "options": [
+          "Gateway",
+          "Router",
+          "Firewall",
+          "Switch"
+        ],
+        "question": "What connects a local network to the Internet or another network?"
+      },
+      {
+        "correct": "Wireless Access Point",
+        "options": [
+          "Router",
+          "Switch",
+          "Wireless Access Point",
+          "Hub"
+        ],
+        "question": "What device allows wireless devices to connect to a wired network?"
+      }
+    ],
+    "subtitle": "Network Administration",
+    "time": "20",
+    "title": "Networking"
+  },
+  {
+    "id": "9",
+    "questionList": [
+      {
+        "correct": "Structured Query Language",
+        "options": [
+          "Structured Query Language",
+          "Simple Query Language",
+          "Sequential Query Language",
+          "Systematic Query Language"
+        ],
+        "question": "What does SQL stand for?"
+      },
+      {
+        "correct": "Primary Key",
+        "options": [
+          "Foreign Key",
+          "Unique Key",
+          "Primary Key",
+          "Index"
+        ],
+        "question": "Which key uniquely identifies each row in a database table?"
+      },
+      {
+        "correct": "Normalization",
+        "options": [
+          "Denormalization",
+          "Indexing",
+          "Normalization",
+          "Partitioning"
+        ],
+        "question": "What is the process of organizing data to reduce redundancy called?"
+      },
+      {
+        "correct": "Foreign Key",
+        "options": [
+          "Foreign Key",
+          "Primary Key",
+          "Candidate Key",
+          "Super Key"
+        ],
+        "question": "Which key is used to link two tables together?"
+      },
+      {
+        "correct": "INNER JOIN",
+        "options": [
+          "LEFT JOIN",
+          "RIGHT JOIN",
+          "INNER JOIN",
+          "FULL JOIN"
+        ],
+        "question": "Which type of join returns only the matching rows from both tables?"
+      },
+      {
+        "correct": "ACID",
+        "options": [
+          "ACID",
+          "BASE",
+          "SQL",
+          "CRUD"
+        ],
+        "question": "What is the acronym that represents Atomicity, Consistency, Isolation, and Durability in database transactions?"
+      },
+      {
+        "correct": "SELECT",
+        "options": [
+          "INSERT",
+          "SELECT",
+          "UPDATE",
+          "DELETE"
+        ],
+        "question": "Which SQL command is used to retrieve data from a database?"
+      },
+      {
+        "correct": "DELETE",
+        "options": [
+          "DELETE",
+          "TRUNCATE",
+          "DROP",
+          "REMOVE"
+        ],
+        "question": "Which SQL command is used to remove rows from a table?"
+      },
+      {
+        "correct": "Stored Procedure",
+        "options": [
+          "Stored Procedure",
+          "View",
+          "Trigger",
+          "Cursor"
+        ],
+        "question": "What is a precompiled collection of SQL statements that can be executed repeatedly?"
+      },
+      {
+        "correct": "View",
+        "options": [
+          "Index",
+          "Table",
+          "View",
+          "Stored Procedure"
+        ],
+        "question": "What is a virtual table that is based on the result of an SQL SELECT statement?"
+      },
+      {
+        "correct": "Index",
+        "options": [
+          "Index",
+          "Primary Key",
+          "Foreign Key",
+          "Constraint"
+        ],
+        "question": "What is used in SQL Server to improve the speed of data retrieval operations?"
+      },
+      {
+        "correct": "Trigger",
+        "options": [
+          "Trigger",
+          "Stored Procedure",
+          "Function",
+          "View"
+        ],
+        "question": "Which SQL Server object automatically executes a set of statements when a specific event occurs?"
+      },
+      {
+        "correct": "JOIN",
+        "options": [
+          "JOIN",
+          "GROUP BY",
+          "ORDER BY",
+          "HAVING"
+        ],
+        "question": "Which SQL clause is used to combine rows from two or more tables based on a related column?"
+      },
+      {
+        "correct": "SQL Injection",
+        "options": [
+          "SQL Injection",
+          "Cross-Site Scripting",
+          "Brute Force",
+          "Man-in-the-Middle"
+        ],
+        "question": "What type of attack exploits vulnerabilities in SQL queries to execute malicious code?"
+      },
+      {
+        "correct": "Clustered Index",
+        "options": [
+          "Clustered Index",
+          "Non-Clustered Index",
+          "Primary Key",
+          "Foreign Key"
+        ],
+        "question": "Which type of index defines the physical order of data in a table?"
+      },
+      {
+        "correct": "ALTER",
+        "options": [
+          "ALTER",
+          "UPDATE",
+          "INSERT",
+          "DROP"
+        ],
+        "question": "Which SQL command is used to modify the structure of a database table?"
+      },
+      {
+        "correct": "HAVING",
+        "options": [
+          "WHERE",
+          "GROUP BY",
+          "HAVING",
+          "ORDER BY"
+        ],
+        "question": "Which SQL clause is used to filter groups created by the GROUP BY clause?"
+      },
+      {
+        "correct": "Transaction",
+        "options": [
+          "Transaction",
+          "Commit",
+          "Rollback",
+          "Lock"
+        ],
+        "question": "What is a sequence of database operations that are treated as a single unit?"
+      },
+      {
+        "correct": "Rollback",
+        "options": [
+          "Rollback",
+          "Commit",
+          "Savepoint",
+          "Lock"
+        ],
+        "question": "Which command is used to undo a transaction in SQL Server?"
+      },
+      {
+        "correct": "PRIMARY KEY",
+        "options": [
+          "PRIMARY KEY",
+          "FOREIGN KEY",
+          "CHECK",
+          "DEFAULT"
+        ],
+        "question": "Which constraint ensures that all values in a column are unique and not NULL?"
+      }
+    ],
+    "subtitle": "SQL Server",
+    "time": "20",
+    "title": "SQL Server"
+  }
+]
